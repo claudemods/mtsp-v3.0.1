@@ -103,7 +103,7 @@ sudo ln -s $(pwd)/mtsp-v3.0.1.sh /usr/local/bin/mtsp
 ![MTSP Main Menu](https://github.com/almezali/mtsp-v3.0.1/raw/main/Scr_1.png)
 
 ### File Browser
-![MTSP File Browser](https://github.com/almezali/mtsp-v3.0.1/raw/main/Scr_1.png)
+![MTSP File Browser](https://github.com/almezali/mtsp-v3.0.1/raw/main/Scr_2.png)
 
 ## 🤝 Contributing
 
