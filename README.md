@@ -73,7 +73,7 @@ sudo pacman -S bash sqlite mpv dialog socat
 ### Installation Steps
 ```bash
 # Clone the repository
-git clone https://github.com/claudemods/mtsp.git
+git clone https://github.com/claudemods/-v3.0.1.git
 cd mtsp
 
 # Make the script executable
@@ -97,13 +97,6 @@ sudo ln -s $(pwd)/mtsp-v3.0.1.sh /usr/local/bin/mtsp
 - Browse Files: Option 4
 - Manage Playlists: Option 5
 
-## 📸 Screenshots
-
-### Main Menu
-![MTSP Main Menu](https://github.com/almezali/mtsp-v3.0.1/raw/main/Scr_1.png)
-
-### File Browser
-![MTSP File Browser](https://github.com/almezali/mtsp-v3.0.1/raw/main/Scr_2.png)
 
 ## 🤝 Contributing
 
